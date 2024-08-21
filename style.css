@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(135deg, #003366, #66ccff);
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.calculator {
+  background-color: hsl(0, 0%, 15%);
+  max-width: 500px;
+  max-height: 850px;
+  display: grid;
+  grid-template-rows: 1fr 3fr;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  border-radius: 20px;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+  vertical-align: bottom;
+  padding-bottom: -14px;
+}
+
+#display {
+  width: 100%;
+  height: 200px;
+  background-color: hsl(0, 0%, 20%);
+  border-bottom: 2px solid #fff;
+  color: rgb(255, 255, 255);
+  text-align: right;
+  padding: 80px 0 10px;
+  box-sizing: border-box;
+  font-size: 90px;
+  line-height: 200px;
+  vertical-align: bottom;
+  /* border: 3px solid #fff; */
+  padding-bottom: 0px;
+}
+
+.buttons {
+  display: grid;
+  width: 100%;
+  height: 600px;
+  padding: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 15px;
+  row-gap: 20px;
+  box-sizing: border-box;
+  overflow:visible;
+}
+
+.btn {
+  border-radius: 50px;
+  font-weight: bold;
+  box-shadow: none;
+  padding: 30px;
+  font-size: 32px;
+  cursor: pointer;
+  border: none;
+}
+
+.btn--0 {
+ grid-column: span 2;
+}
+
+.btn--operators {
+  background-color: hsl(37, 100%, 44%);
+}
+
+.btn--operators:hover {
+  background-color: hsl(37, 100%, 54%);
+}
+.btn--operators:active {
+  background-color: hsl(37, 100%, 74%);
+}
+
+.btn--function {
+  background-color: hsl(210, 11%, 71%);
+}
+
+.btn--function:hover{
+  background-color: hsl(210, 11%, 81%);
+}
+
+.btn--function:active{
+  background-color: hsl(210, 11%, 91%);
+}
+
+.btn--num {
+  background-color: hsl(210, 9%, 31%);
+  color: aliceblue;
+}
+
+.btn--num:hover {
+  background-color: hsl(210, 9%, 41%);
+  color: aliceblue;
+}
+
+.btn--num:active {
+  background-color: hsl(210, 9%, 51%);
+  color: aliceblue;
+}
