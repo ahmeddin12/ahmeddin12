@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Ahmed Mahmud Abtew (Amudi)
+# 👋 Hi, I'm Ahmed Mahmud
 
+💻 **A Full-stack developer familiar eith React & Nextjs Developer**  
 🎓 **B.Sc. in Computer Science** — Haramaya University  
-💻 **Junior React & Nextjs Developer**  
 🌍 Ethiopia  
 🚀 Passionate about building scalable, user-focused web applications  
 
@@ -57,7 +57,7 @@ I have hands-on experience from **academic projects, internships, and self-learn
 ---
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmeddin12&show_icons=true&theme=default)
 
 ---
 
