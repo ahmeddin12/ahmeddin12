@@ -1,16 +1,65 @@
 ## Hi there 👋
 
-<!--
-**ahmeddin12/ahmeddin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ahmed Mahmud Abtew (Amudi)
 
-Here are some ideas to get you started:
+🎓 **B.Sc. in Computer Science** — Haramaya University  
+💻 **Junior React & Nextjs Developer**  
+🌍 Ethiopia  
+🚀 Passionate about building scalable, user-focused web applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+I am a motivated Full-stack developer with a strong interest in **web development and modern software engineering**.  
+I enjoy learning new technologies, solving real-world problems, and building clean, maintainable applications.  
+I have hands-on experience from **academic projects, internships, and self-learning**, and I’m eager to grow as a professional developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
+- ShadCN/UI
+
+### ⚙️ Backend
+- Node.js (Express.js, NestJS)
+- ASP.NET Core Web API
+- Python (FastAPI)
+
+### 🗄️ Databases
+- PostgreSQL
+- SQL Server
+- MongoDB
+- Redis
+
+### 🔐 Authentication & Security
+- JWT
+- OAuth 2.0
+- Role-Based Access Control (RBAC)
+
+### ☁️ DevOps & Tools
+- Git & GitHub
+- Docker, Kubernetes
+- GitHub Actions (CI/CD)
+- Azure (AKS)
+- RabbitMQ / Kafka
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 Portfolio: coming soon
+
+---
+
+## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+⭐ *Always eager to learn, build, and collaborate on meaningful projects.*
+
