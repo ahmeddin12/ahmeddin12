@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://portfolio-gsj4.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-1B3A5C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmeddin12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/ibnumahmud"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:ahmed01.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -16,7 +17,7 @@ I'm a full-stack developer building production platforms across e-commerce, real
 - 🔭 Currently building **AbayMart** (multi-vendor e-commerce), **AbayStock** (multi-store SaaS), and **Andromeda** (real estate platform)
 - 🌱 Leveling up backend skills: caching, event-driven architecture, and payment gateway integration (Chapa)
 - 💬 Ask me about NestJS, Next.js, Prisma, Docker, or Django
-- 📫 Reach me at **ahmed01.dev@gmail.com**
+- 📫 Reach me at **ahmed01.dev@gmail.com** or on [Telegram](https://t.me/ibnumahmud)
 
 ---
 
@@ -91,8 +92,8 @@ I'm a full-stack developer building production platforms across e-commerce, real
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmeddin12&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddin12&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmeddin12&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddin12&layout=compact&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
